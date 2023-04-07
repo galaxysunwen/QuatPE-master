@@ -1,5 +1,5 @@
-# Knowledge Graph Embedding with Paired Relations Rotation and Entities Adjustment by Quaternions
-This is the code of paper **Knowledge Graph Embedding with Paired Relations Rotation and Entities Adjustment by Quaternions.**
+# Knowledge Graph Embedding with Relation Rotation and Entity Adjustment by Quaternions
+This is the code of paper **Knowledge Graph Embedding with Relation Rotation and Entity Adjustment by Quaternions.**
 
 ## Dependencies
 - Python 3.7+
